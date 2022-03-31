@@ -1,6 +1,6 @@
-#Curso Responsive Design - Maquetacion Mobile First - Platzi
+# Curso Responsive Design - Maquetacion Mobile First - Platzi
 
-Curso "Responsive Design - Maquetacion Mobile First" correspondiente a la "Escuela de Desarrollado Web" en Platzi.
+Curso **"Responsive Design - Maquetacion Mobile First"** correspondiente a la **"Escuela de Desarrollado Web"** en **Platzi**.
 
 Este curso lo estoy iniciando el 29 de Marzo del 2022.
 
